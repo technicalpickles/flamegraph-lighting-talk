@@ -7,3 +7,4 @@ gem "sinatra"
 
 gem "rails"
 gem "sqlite3"
+gem "unicorn"
