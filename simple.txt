@@ -1,0 +1,6 @@
+simple.rb:35:in `<main>'    simple.rb:8:in `hello'      simple.rb:14:in `world'   simple.rb:20:in `itsa'    simple.rb:25:in `sup'       simple.rb:30:in `yall'
+                            simple.rb:37:in `<main>'    simple.rb:10:in `hello'   simple.rb:16:in `world'   simple.rb:38:in `<main>'    simple.rb:39:in `<main>'
+                                                        simple.rb:37:in `<main>'  simple.rb:10:in `hello'
+                                                                                  simple.rb:37:in `<main>'
+
+
