@@ -1,58 +1,58 @@
 # Flamegraphs
 
 ```
-                           d'b 8                                                  8
-                           8   8                                                  8
-                          o8P  8 .oPYo. ooYoYo. .oPYo. .oPYo. oPYo. .oPYo. .oPYo. 8oPYo. .oPYo.
-                           8   8 .oooo8 8' 8  8 8oooo8 8    8 8  `' .oooo8 8    8 8    8 Yb..
-                           8   8 8    8 8  8  8 8.     8    8 8     8    8 8    8 8    8   'Yb.
-                           8   8 `YooP8 8  8  8 `Yooo' `YooP8 8     `YooP8 8YooP' 8    8 `YooP'
-                          :..::..:.....:..:..:..:.....::....8 ..:::::.....:8 ....:..:::..:.....:
-                          :::::::::::::::::::::::::::::::ooP'.:::::::::::::8 :::::::::::::::::::
-                          :::::::::::::::::::::::::::::::...:::::::::::::::..:::::::::::::::::::
-                                                                                                            
-                                                                %%                                          
-                                                               *+*                                          
-                                                              %+++%                                         
-                                                              %+++%                                         
-                                                               \**                                          
-                                                                                                            
-                                                           \**        %                                     
-                                                         %*++*      /++/                                    
-                                                        /++++*     /+++*                                    
-                                                       %++++++    /+++++\                                   
-                                                       *++++++\   \+++++*                                   
-                                                      /++++++++%  \+++++/                                   
-                                               **\%   \+++++++++/  *++\%  %%%                               
-                                               *+++*/ +++++++++++\  // %\+++*                               
-                                               \++++++++++++++++++*% %*++++\                                
-                                               /++++++++++++++++++++\+++++*                                 
-                                               \++++++++++++++++++++++++++/    /**                          
-                                               ++++++++++++=++++++++++++++\   %+++\                         
-                                         \*/  \++++==++++++==++++=++++++++*   \++++                         
-                                  /+*%   \++**+++++===+++++====++=+++++++++/  *++++%                        
-                                  *+++   /+++++++++====+++=====++=++++++++++  *+++*                         
-                                %*++++/  \++++++++++==+++=======++++++++++++* /++*                          
-                                *+++++/  *++++++==++++++========++===++++++++* %/%%                         
-                               %+++++*  \++++++++===+++========-=====+++++++++*% *+*                        
-                                ++++\  \+++++++++====================+++++++++++*+++%                       
-                                %*++/ \++++==++++===========-========+++++++++++++++\                       
-                                  /\\\+++++-==+++=========---=========++=++++++++++++                       
-                              \\\%  \++++++===++=========--:-===========-++++=+++++++/                      
-                              ++++**++++++++=+++=========-:::-===========+++====+++++*                      
-                              \+++++++++++++++=======-----::::-===---=====+++===++++++                      
-                              %+++++++++++==+========-::-::::::---:-=======+++-=++++++%                     
-                               \++++++++++===========-:::::::::::::-=======+++=+++++++                      
-                                *++++++++=========----:::::::::::::-========+++++++++*                      
-                                %*+++++++=========-:::::::::::::::::-========++===+++%                      
-                                  \++++++-========-:::::::::::::::::--=-=========+++/                       
-                                   %*++++-=======-::::::::::::::::::::-:-========++/                        
-                                     %\++====-==-:::::::::::::::::::::::-=======+*%                         
-                                        /+==-:--:::::::::::::::::::::::::-=====\%                           
-                                          %\+--::::::::::::::::::::::::::-=+\%                              
-                                              %/*+---::::::::::::::--=+*/%                                  
-                                                    %%//\/////////%                                         
-                                                                                                    
+      d'b 9                                                  8
+      8   8                                                  8
+     o8P  8 .oPYo. ooYoYo. .oPYo. .oPYo. oPYo. .oPYo. .oPYo. 8oPYo. .oPYo.
+      8   8 .oooo8 8' 8  8 8oooo8 8    8 8  `' .oooo8 8    8 8    8 Yb..
+      8   8 8    8 8  8  8 8.     8    8 8     8    8 8    8 8    8   'Yb.
+      8   8 `YooP8 8  8  8 `Yooo' `YooP8 8     `YooP8 8YooP' 8    8 `YooP'
+     :..::..:.....:..:..:..:.....::....8 ..:::::.....:8 ....:..:::..:.....:
+     :::::::::::::::::::::::::::::::ooP'.:::::::::::::8 :::::::::::::::::::
+     :::::::::::::::::::::::::::::::...:::::::::::::::..:::::::::::::::::::
+                                                                                       
+                                           %%                                          
+                                          *+*                                          
+                                         %+++%                                         
+                                         %+++%                                         
+                                          \**                                          
+                                                                                       
+                                      \**        %                                     
+                                    %*++*      /++/                                    
+                                   /++++*     /+++*                                    
+                                  %++++++    /+++++\                                   
+                                  *++++++\   \+++++*                                   
+                                 /++++++++%  \+++++/                                   
+                          **\%   \+++++++++/  *++\%  %%%                               
+                          *+++*/ +++++++++++\  // %\+++*                               
+                          \++++++++++++++++++*% %*++++\                                
+                          /++++++++++++++++++++\+++++*                                 
+                          \++++++++++++++++++++++++++/    /**                          
+                          ++++++++++++=++++++++++++++\   %+++\                         
+                    \*/  \++++==++++++==++++=++++++++*   \++++                         
+             /+*%   \++**+++++===+++++====++=+++++++++/  *++++%                        
+             *+++   /+++++++++====+++=====++=++++++++++  *+++*                         
+           %*++++/  \++++++++++==+++=======++++++++++++* /++*                          
+           *+++++/  *++++++==++++++========++===++++++++* %/%%                         
+          %+++++*  \++++++++===+++========-=====+++++++++*% *+*                        
+           ++++\  \+++++++++====================+++++++++++*+++%                       
+           %*++/ \++++==++++===========-========+++++++++++++++\                       
+             /\\\+++++-==+++=========---=========++=++++++++++++                       
+         \\\%  \++++++===++=========--:-===========-++++=+++++++/                      
+         ++++**++++++++=+++=========-:::-===========+++====+++++*                      
+         \+++++++++++++++=======-----::::-===---=====+++===++++++                      
+         %+++++++++++==+========-::-::::::---:-=======+++-=++++++%                     
+          \++++++++++===========-:::::::::::::-=======+++=+++++++                      
+           *++++++++=========----:::::::::::::-========+++++++++*                      
+           %*+++++++=========-:::::::::::::::::-========++===+++%                      
+             \++++++-========-:::::::::::::::::--=-=========+++/                       
+              %*++++-=======-::::::::::::::::::::-:-========++/                        
+                %\++====-==-:::::::::::::::::::::::-=======+*%                         
+                   /+==-:--:::::::::::::::::::::::::-=====\%                           
+                     %\+--::::::::::::::::::::::::::-=+\%                              
+                         %/*+---::::::::::::::--=+*/%                                  
+                               %%//\/////////%                                         
+                                                                               
 
 ```
 
@@ -75,24 +75,29 @@ text generation: `figlet -f jazmine -w 400 "flamegraphs"`
 > Flame graphs are a visualization of hierarchical data, created to visualize stack traces of profiled software so that the most frequent code-paths to be identified quickly and accurately.
 https://www.brendangregg.com/flamegraphs.html
 
-> A powerful tool for undrestanding how your program runs
+> A powerful tool for understanding how your program runs. And a great debugging tool.
 - me
+
 
 ## Hi
 
 Josh Nichols
 
-aka technicalpickles
+aka technicalpickles / techpickles
+
+4th-ish RailsConf? First in Vegas 2009
 
 I work at Gusto
+
+I like ascii art and vim
 
 I'm easily nerdsniped by performance issues
 
 ## An example program
 
-Let's look at a program (simple.rbl
+Let's look at a program (simple.rb)
 
-What does this do? `hello` is called, which calls `world`, whicih calls `itsa`
+What does this do? `hello` is called, which calls `world`, whicih calls `itsa`,
 
 ```
 ❯ ruby simple.rb
@@ -106,7 +111,7 @@ yall
 
 ## Profiling
 
-Imagine we already have a tool to profile and visualize.. it might look like:
+Imagine we already have a tool to profile and visualize. Having seen a picture of a flamegraph, I could imagine it looking like..
 
 ```
 [-------- main ----------------------------------------------]
@@ -216,7 +221,7 @@ Creating temp file /var/folders/92/0kw80yh95bz8b431qwjvmctm0000gn/T/speedscope-1
 Creating temp file /var/folders/92/0kw80yh95bz8b431qwjvmctm0000gn/T/speedscope-1682519367683-10368.html
 Opening file:///var/folders/92/0kw80yh95bz8b431qwjvmctm0000gn/T/speedscope-1682519367683-10368.html in your default browser
 ```
-
+[link](file:///Users/josh.nichols/workspace/flamegraph-talk/node_modules/speedscope/dist/release/index.html#localProfilePath=/var/folders/92/0kw80yh95bz8b431qwjvmctm0000gn/T/speedscope-1682519367683-10368.js)
 Looks pretty close
 
 ## Aside
@@ -225,8 +230,7 @@ Flames burn up, right? Not down?
 
 Yeah, I don't know when we switched from them going up to down
 
-Theory: has to do with making it easy
-
+Theory: has to do with making it easier to read???
 
 ## Interpretting this
 
@@ -242,7 +246,10 @@ We are using `sleep` so it's pretty clear time is _only_ in that frame
 
 ## Rails
 
-Single file rails app, let's run it:
+
+Single file rails app: rails.ru
+
+Let's run it:
 ```
 ❯ unicorn
 [2023-04-26 10:32:40] INFO  WEBrick 1.6.1
@@ -284,7 +291,6 @@ During Eileen's keynote, she said something to the effect of:
 
 Rails focuses on making develoepr experience simple, and does that by taking on complexity
 
-
 Guess what we are now seeing :D 
 
 We have to do a lot of scrolling to find our application code. This is pretty common, unfortunately.
@@ -306,27 +312,22 @@ Creating temp file /var/folders/92/0kw80yh95bz8b431qwjvmctm0000gn/T/speedscope-1
 Opening file:///var/folders/92/0kw80yh95bz8b431qwjvmctm0000gn/T/speedscope-1682521604552-12136.html in your default browser
 ```
 
-
 ## Be curious, learn by doing
 
 I've found it hard to teach this, but you can definitely learn by doing. And learn by working with people.
 
-Gives you an opportunity to be curious. What is all that stuff? Let's find out!
-
-
-
-
+Flamegraphs give you an opportunity to be curious. What is all that stuff? Let's find out!
 
 ## Let's Collaborate
 
-If you are interested in digging into Rails boot performance, or any really, please reach out!
+If you are interested in digging into Rails boot performance, or any really Ruby performance issues, please reach out!
 
 Would love to do some pairing 🍐
 
 ## Conclusion
 
 Josh Nichols
-@technialpickles / @techpickles
+@technialpickles / @techpickles / @technicalpickles@ruby.social
 
 - https://github.com/technicalpickles/flamegraph-talk
 - https://github.com/technicalpickles/singed
